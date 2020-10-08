@@ -31,8 +31,4 @@ Code	Type	Description
 429	- Too Many Requests	Your API Key is making too many requests. Read about requesting a Production Key to upgrade your API Key rate limits.
 
 
-PD: Links útiles
-https://github.com/public-apis/public-apis (Las que digan Auth: No)
-https://shkspr.mobi/blog/2016/05/easy-apis-without-authentication/
-https://any-api.com/
-https://public-apis.xyz/
+
